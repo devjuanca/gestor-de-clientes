@@ -1,3 +1,3 @@
 # gestor-de-clientes
 Windows Form c# .
-Gestor de clientes que deben pagar por un servicio mensualmente. Alertas, reportes, registro de cobros, ingresos, costos etc.
+Sistema Gestor de clientes . Alertas, reportes, notificaciones de pago, registro de cobros, ingresos, costos etc.
